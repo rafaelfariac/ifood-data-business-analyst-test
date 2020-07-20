@@ -1,7 +1,7 @@
 # iFood CRM Data Analyst Case
 
-Rafael Faria Castelão
-rafaelfariac@gmail.com
+Rafael Faria Castelão <br>
+rafaelfariac@gmail.com <br>
 Last update 20/07/2020
 
 ---
@@ -13,5 +13,5 @@ I developed a solution in two different jupyter notebooks:
 - Part 2 - Features Study
 
 <br>
-There is also a business presentation in pdf:
+There is also a business presentation in pdf: <br>
 - Presentation
