@@ -6,17 +6,18 @@ Last update 20/07/2020
 
 ---
 
-This case is used for hiring Data Analysts for the iFood Brain team. Instructions are in the pdf file. <br>
+This case is used for hiring Data Analysts for the iFood Brain team. Instructions are in the pdf file.
 <ul>
 <li>iFood Data Analyst Case</li>
 </ul>
 
 I developed a solution in two different jupyter notebooks:
-- Part 1 - Predictive Model
-- Part 2 - Features Study
+<ul>
+<li>Part 1 - Predictive Model</li>
+<li>Part 2 - Features Study</li>
+</ul>
 
-<br>
-There is also a business presentation in pdf: <br>
+There is also a business presentation in pdf:
 <ul>
 <li>Presentation</li>
 </ul>
