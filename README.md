@@ -1,5 +1,5 @@
 # iFood CRM Data Analyst Case
-Rafael Faria Castelão
+Rafael Faria Castelão  
 Last update 20/07/2020
 ---
 
