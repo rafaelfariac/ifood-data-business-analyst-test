@@ -1,6 +1,8 @@
 # iFood CRM Data Analyst Case
+
 Rafael Faria Castelão  
 Last update 20/07/2020
+
 ---
 
 This case is used for hiring Data Analysts for the iFood Brain team. Instructions are in the pdf file. <br><br>
