@@ -14,4 +14,6 @@ I developed a solution in two different jupyter notebooks:
 
 <br>
 There is also a business presentation in pdf: <br>
-- Presentation
+<ul>
+<li>Presentation</li>
+</ul>
